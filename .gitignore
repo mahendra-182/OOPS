@@ -1,0 +1,12 @@
+# Ignore compiled Java class files
+*.class
+
+# Ignore scripts and logs
+*.ps1
+*.py
+*.txt
+
+# Ignore IDE folders
+.qodo/
+.idea/
+.vscode/

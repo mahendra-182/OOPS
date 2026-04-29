@@ -2,7 +2,7 @@ interface Classify {
     String getDivision(double average);
 }
 
-class Result implements Classify {
+class ResultP16 implements Classify {
     public String getDivision(double average) {
         if (average >= 60) {
             return "First Division";
@@ -10,9 +10,12 @@ class Result implements Classify {
             return "No Division";
         }
     }
+}
 
+public class P16 {
     public static void main(String[] args) {
-        Result r = new Result();
-        System.out.println(r.getDivision(65));
+        ResultP16 r = new ResultP16();
+        System.out.println("Average: 65.0");
+        System.out.println("Division: " + r.getDivision(65));
     }
 }

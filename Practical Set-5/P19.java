@@ -1,6 +1,6 @@
-package student;
+// P19 - Packages demo (Student base class + Result subclass in same file without package declarations)
 
-public class Student {
+class Student {
     protected int rollNo;
     protected String name;
 
@@ -15,17 +15,10 @@ public class Student {
     }
 }
 
-
-
-
-package exam;
-
-import student.Student;
-
-public class Result extends Student {
+class ResultP19 extends Student {
     int marks1, marks2, marks3;
 
-    public Result(int rollNo, String name, int m1, int m2, int m3) {
+    public ResultP19(int rollNo, String name, int m1, int m2, int m3) {
         super(rollNo, name);
         this.marks1 = m1;
         this.marks2 = m2;
@@ -43,9 +36,11 @@ public class Result extends Student {
         System.out.println("Total: " + total);
         System.out.println("Average: " + average);
     }
+}
 
+public class P19 {
     public static void main(String[] args) {
-        Result r = new Result(1, "Darshil", 80, 75, 90);
+        ResultP19 r = new ResultP19(1, "Darshil", 80, 75, 90);
         r.displayResult();
     }
 }
