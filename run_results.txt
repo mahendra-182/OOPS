@@ -1,0 +1,1286 @@
+﻿=== Practical Set-1 / P1 ===
+  Compiled OK. Running (5s timeout)...
+  [RUNTIME ERROR]
+  Error: Could not find or load main class Set-1
+  Caused by: java.lang.ClassNotFoundException: Set-1
+
+=== Practical Set-1 / P2 ===
+  Compiled OK. Running (5s timeout)...
+  [RUNTIME ERROR]
+  Error: Could not find or load main class Set-1
+  Caused by: java.lang.ClassNotFoundException: Set-1
+
+=== Practical Set-1 / P3 ===
+  Compiled OK. Running (5s timeout)...
+  [RUNTIME ERROR]
+  Error: Could not find or load main class Set-1
+  Caused by: java.lang.ClassNotFoundException: Set-1
+
+=== Practical Set-1 / P4 ===
+  Compiled OK. Running (5s timeout)...
+  [RUNTIME ERROR]
+  Error: Could not find or load main class Set-1
+  Caused by: java.lang.ClassNotFoundException: Set-1
+
+=== Practical Set-1 / P5 ===
+  Compiled OK. Running (5s timeout)...
+  [RUNTIME ERROR]
+  Error: Could not find or load main class Set-1
+  Caused by: java.lang.ClassNotFoundException: Set-1
+
+=== Practical Set-2 / P6 ===
+  [COMPILE ERROR]
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-2\P6.java:1: error: class PR6 is public, should be declared in a file named PR6.java
+  public class PR6 {
+         ^
+  1 error
+
+=== Practical Set-2 / P7 ===
+  [COMPILE ERROR]
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-2\P7.java:3: error: class PR7 is public, should be declared in a file named PR7.java
+  public class PR7 {
+         ^
+  1 error
+
+=== Practical Set-2 / P8 ===
+  [COMPILE ERROR]
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-2\P8.java:1: error: class PR8 is public, should be declared in a file named PR8.java
+  public class PR8 {
+         ^
+  1 error
+
+=== Practical Set-2 / P9 ===
+  [COMPILE ERROR]
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-2\P9.java:1: error: class PR9 is public, should be declared in a file named PR9.java
+  public class PR9 {
+         ^
+  1 error
+
+=== Practical Set-3 / P10 ===
+  [COMPILE ERROR]
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-3\P10.java:1: error: class PR10 is public, should be declared in a file named PR10.java
+  public class PR10 {
+         ^
+  1 error
+
+=== Practical Set-3 / P11 ===
+  [COMPILE ERROR]
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-3\P11.java:3: error: class PR11 is public, should be declared in a file named PR11.java
+  public class PR11 {
+         ^
+  1 error
+
+=== Practical Set-3 / P12 ===
+  [COMPILE ERROR]
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-3\P12.java:1: error: class PR12 is public, should be declared in a file named PR12.java
+  public class PR12 {
+         ^
+  1 error
+
+=== Practical Set-4 / P13 ===
+  [COMPILE ERROR]
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-4\P13.java:22: error: class PR13 is public, should be declared in a file named PR13.java
+  public class PR13 {
+         ^
+  1 error
+
+=== Practical Set-4 / P14 ===
+  [COMPILE ERROR]
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-4\P14.java:41: error: class PR14 is public, should be declared in a file named PR14.java
+  public class PR14 {
+         ^
+  1 error
+
+=== Practical Set-4 / P15 ===
+  [COMPILE ERROR]
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-4\P15.java:22: error: class PR15 is public, should be declared in a file named PR15.java
+  public class PR15 {
+         ^
+  1 error
+
+=== Practical Set-5 / P16 ===
+  Compiled OK. Running (5s timeout)...
+  [RUNTIME ERROR]
+  Error: Could not find or load main class Set-5
+  Caused by: java.lang.ClassNotFoundException: Set-5
+
+=== Practical Set-5 / P17 ===
+  Compiled OK. Running (5s timeout)...
+  [RUNTIME ERROR]
+  Error: Could not find or load main class Set-5
+  Caused by: java.lang.ClassNotFoundException: Set-5
+
+=== Practical Set-5 / P18 ===
+  [COMPILE ERROR]
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-5\P18.java:26: error: class PR18 is public, should be declared in a file named PR18.java
+  public class PR18 {
+         ^
+  1 error
+
+=== Practical Set-5 / P19 ===
+  [COMPILE ERROR]
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-5\P19.java:21: error: class, interface, enum, or record expected
+  package exam;
+  ^
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-5\P19.java:23: error: class, interface, enum, or record expected
+  import student.Student;
+  ^
+  2 errors
+
+=== Practical Set-6 / P20 ===
+  [COMPILE ERROR]
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-6\P20.java:1: error: class PR20 is public, should be declared in a file named PR20.java
+  public class PR20 {
+         ^
+  1 error
+
+=== Practical Set-6 / P21 ===
+  [COMPILE ERROR]
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-6\P21.java:1: error: class PR21 is public, should be declared in a file named PR21.java
+  public class PR21 {
+         ^
+  1 error
+
+=== Practical Set-6 / P22 ===
+  [COMPILE ERROR]
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-6\P22.java:24: error: class PR22 is public, should be declared in a file named PR22.java
+  public class PR22 {
+         ^
+  1 error
+
+=== Practical Set-7 / P23 ===
+  [COMPILE ERROR]
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-7\P23.java:25: error: class PR23 is public, should be declared in a file named PR23.java
+  public class PR23 {
+         ^
+  1 error
+
+=== Practical Set-7 / P24 ===
+  [COMPILE ERROR]
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-7\P24.java:25: error: class PR24 is public, should be declared in a file named PR24.java
+  public class PR24 {
+         ^
+  1 error
+
+=== Practical Set-7 / P25 ===
+  [COMPILE ERROR]
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-7\P25.java:24: error: class PR25 is public, should be declared in a file named PR25.java
+  public class PR25 {
+         ^
+  1 error
+
+=== Practical Set-8 / P26 ===
+  [COMPILE ERROR]
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-8\P26.java:3: error: class PR26 is public, should be declared in a file named PR26.java
+  public class PR26 {
+         ^
+  1 error
+
+=== Practical Set-8 / P27 ===
+  [COMPILE ERROR]
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-8\P27.java:3: error: class PR27 is public, should be declared in a file named PR27.java
+  public class PR27 {
+         ^
+  1 error
+
+=== Practical Set-8 / P28 ===
+  [COMPILE ERROR]
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-8\P28.java:3: error: class PR28 is public, should be declared in a file named PR28.java
+  public class PR28 {
+         ^
+  1 error
+
+=== Practical Set-9 / P29 ===
+  [COMPILE ERROR]
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-9\P29.java:3: error: class PR29 is public, should be declared in a file named PR29.java
+  public class PR29 {
+         ^
+  1 error
+
+=== Practical Set-9 / P30 ===
+  [COMPILE ERROR]
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-9\P30.java:3: error: class PR30 is public, should be declared in a file named PR30.java
+  public class PR30 {
+         ^
+  1 error
+
+=== Practical Set-9 / P31 ===
+  [COMPILE ERROR]
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-9\P31.java:3: error: class PR31 is public, should be declared in a file named PR31.java
+  public class PR31 {
+         ^
+  1 error
+
+=== Practical Set-9 / P32 ===
+  [COMPILE ERROR]
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-9\P32.java:3: error: class PR32 is public, should be declared in a file named PR32.java
+  public class PR32 {
+         ^
+  1 error
+
+=== Practical Set-10 / P33 ===
+  [COMPILE ERROR]
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P33.java:13: error: class PR33 is public, should be declared in a file named PR33.java
+  public class PR33 extends Application {
+         ^
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P33.java:1: error: package javafx.application does not exist
+  import javafx.application.Application;
+                           ^
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P33.java:2: error: package javafx.scene does not exist
+  import javafx.scene.Scene;
+                     ^
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P33.java:3: error: package javafx.scene.layout does not exist
+  import javafx.scene.layout.VBox;
+                            ^
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P33.java:4: error: package javafx.scene.text does not exist
+  import javafx.scene.text.Text;
+                          ^
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P33.java:5: error: package javafx.scene.text does not exist
+  import javafx.scene.text.Font;
+                          ^
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P33.java:6: error: package javafx.scene.text does not exist
+  import javafx.scene.text.FontWeight;
+                          ^
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P33.java:7: error: package javafx.scene.text does not exist
+  import javafx.scene.text.FontPosture;
+                          ^
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P33.java:8: error: package javafx.scene.paint does not exist
+  import javafx.scene.paint.Color;
+                           ^
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P33.java:9: error: package javafx.stage does not exist
+  import javafx.stage.Stage;
+                     ^
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P33.java:10: error: package javafx.geometry does not exist
+  import javafx.geometry.Pos;
+                        ^
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P33.java:13: error: cannot find symbol
+  public class PR33 extends Application {
+                            ^
+    symbol: class Application
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P33.java:14: error: cannot find symbol
+      public void start(Stage stage) {
+                        ^
+    symbol:   class Stage
+    location: class PR33
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P33.java:15: error: cannot find symbol
+          VBox root = new VBox(10);
+          ^
+    symbol:   class VBox
+    location: class PR33
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P33.java:15: error: cannot find symbol
+          VBox root = new VBox(10);
+                          ^
+    symbol:   class VBox
+    location: class PR33
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P33.java:16: error: cannot find symbol
+          root.setAlignment(Pos.CENTER);
+                            ^
+    symbol:   variable Pos
+    location: class PR33
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P33.java:21: error: cannot find symbol
+              Text t = new Text("Text " + i);
+              ^
+    symbol:   class Text
+    location: class PR33
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P33.java:21: error: cannot find symbol
+              Text t = new Text("Text " + i);
+                           ^
+    symbol:   class Text
+    location: class PR33
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P33.java:22: error: cannot find symbol
+              t.setFont(Font.font("Times New Roman", FontWeight.BOLD, FontPosture.ITALIC, 22));
+                                                     ^
+    symbol:   variable FontWeight
+    location: class PR33
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P33.java:22: error: cannot find symbol
+              t.setFont(Font.font("Times New Roman", FontWeight.BOLD, FontPosture.ITALIC, 22));
+                                                                      ^
+    symbol:   variable FontPosture
+    location: class PR33
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P33.java:22: error: cannot find symbol
+              t.setFont(Font.font("Times New Roman", FontWeight.BOLD, FontPosture.ITALIC, 22));
+                        ^
+    symbol:   variable Font
+    location: class PR33
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P33.java:24: error: cannot find symbol
+              Color color = new Color(rand.nextDouble(), rand.nextDouble(), rand.nextDouble(), 1.0);
+              ^
+    symbol:   class Color
+    location: class PR33
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P33.java:24: error: cannot find symbol
+              Color color = new Color(rand.nextDouble(), rand.nextDouble(), rand.nextDouble(), 1.0);
+                                ^
+    symbol:   class Color
+    location: class PR33
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P33.java:31: error: cannot find symbol
+          Scene scene = new Scene(root, 400, 300);
+          ^
+    symbol:   class Scene
+    location: class PR33
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P33.java:31: error: cannot find symbol
+          Scene scene = new Scene(root, 400, 300);
+                            ^
+    symbol:   class Scene
+    location: class PR33
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P33.java:38: error: cannot find symbol
+          launch(args);
+          ^
+    symbol:   method launch(String[])
+    location: class PR33
+  26 errors
+
+=== Practical Set-10 / P34 ===
+  [COMPILE ERROR]
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P34.java:8: error: class PR34 is public, should be declared in a file named PR34.java
+  public class PR34 extends Application {
+         ^
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P34.java:1: error: package javafx.application does not exist
+  import javafx.application.Application;
+                           ^
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P34.java:2: error: package javafx.scene does not exist
+  import javafx.scene.Scene;
+                     ^
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P34.java:3: error: package javafx.scene.layout does not exist
+  import javafx.scene.layout.GridPane;
+                            ^
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P34.java:5: error: package javafx.stage does not exist
+  import javafx.stage.Stage;
+                     ^
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P34.java:6: error: package javafx.geometry does not exist
+  import javafx.geometry.Insets;
+                        ^
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P34.java:8: error: cannot find symbol
+  public class PR34 extends Application {
+                            ^
+    symbol: class Application
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P34.java:9: error: cannot find symbol
+      public void start(Stage stage) {
+                        ^
+    symbol:   class Stage
+    location: class PR34
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P34.java:4: error: package javafx.scene.control does not exist
+  import javafx.scene.control.*;
+                     ^
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P34.java:10: error: cannot find symbol
+          GridPane grid = new GridPane();
+          ^
+    symbol:   class GridPane
+    location: class PR34
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P34.java:10: error: cannot find symbol
+          GridPane grid = new GridPane();
+                              ^
+    symbol:   class GridPane
+    location: class PR34
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P34.java:11: error: cannot find symbol
+          grid.setPadding(new Insets(10));
+                              ^
+    symbol:   class Insets
+    location: class PR34
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P34.java:15: error: cannot find symbol
+          TextField roll = new TextField();
+          ^
+    symbol:   class TextField
+    location: class PR34
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P34.java:15: error: cannot find symbol
+          TextField roll = new TextField();
+                               ^
+    symbol:   class TextField
+    location: class PR34
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P34.java:16: error: cannot find symbol
+          TextField name = new TextField();
+          ^
+    symbol:   class TextField
+    location: class PR34
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P34.java:16: error: cannot find symbol
+          TextField name = new TextField();
+                               ^
+    symbol:   class TextField
+    location: class PR34
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P34.java:17: error: cannot find symbol
+          TextField age = new TextField();
+          ^
+    symbol:   class TextField
+    location: class PR34
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P34.java:17: error: cannot find symbol
+          TextField age = new TextField();
+                              ^
+    symbol:   class TextField
+    location: class PR34
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P34.java:18: error: cannot find symbol
+          TextField email = new TextField();
+          ^
+    symbol:   class TextField
+    location: class PR34
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P34.java:18: error: cannot find symbol
+          TextField email = new TextField();
+                                ^
+    symbol:   class TextField
+    location: class PR34
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P34.java:20: error: cannot find symbol
+          Button submit = new Button("Submit");
+          ^
+    symbol:   class Button
+    location: class PR34
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P34.java:20: error: cannot find symbol
+          Button submit = new Button("Submit");
+                              ^
+    symbol:   class Button
+    location: class PR34
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P34.java:22: error: cannot find symbol
+          grid.add(new Label("Roll No"), 0, 0);
+                       ^
+    symbol:   class Label
+    location: class PR34
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P34.java:24: error: cannot find symbol
+          grid.add(new Label("Name"), 0, 1);
+                       ^
+    symbol:   class Label
+    location: class PR34
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P34.java:26: error: cannot find symbol
+          grid.add(new Label("Age"), 0, 2);
+                       ^
+    symbol:   class Label
+    location: class PR34
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P34.java:28: error: cannot find symbol
+          grid.add(new Label("Email"), 0, 3);
+                       ^
+    symbol:   class Label
+    location: class PR34
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P34.java:41: error: cannot find symbol
+                  Alert alert = new Alert(Alert.AlertType.INFORMATION);
+                  ^
+    symbol:   class Alert
+    location: class PR34
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P34.java:41: error: cannot find symbol
+                  Alert alert = new Alert(Alert.AlertType.INFORMATION);
+                                    ^
+    symbol:   class Alert
+    location: class PR34
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P34.java:41: error: package Alert does not exist
+                  Alert alert = new Alert(Alert.AlertType.INFORMATION);
+                                               ^
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P34.java:46: error: cannot find symbol
+                  Alert alert = new Alert(Alert.AlertType.ERROR);
+                  ^
+    symbol:   class Alert
+    location: class PR34
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P34.java:46: error: cannot find symbol
+                  Alert alert = new Alert(Alert.AlertType.ERROR);
+                                    ^
+    symbol:   class Alert
+    location: class PR34
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P34.java:46: error: package Alert does not exist
+                  Alert alert = new Alert(Alert.AlertType.ERROR);
+                                               ^
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P34.java:50: error: cannot find symbol
+                  Alert alert = new Alert(Alert.AlertType.ERROR);
+                  ^
+    symbol:   class Alert
+    location: class PR34
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P34.java:50: error: cannot find symbol
+                  Alert alert = new Alert(Alert.AlertType.ERROR);
+                                    ^
+    symbol:   class Alert
+    location: class PR34
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P34.java:50: error: package Alert does not exist
+                  Alert alert = new Alert(Alert.AlertType.ERROR);
+                                               ^
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P34.java:56: error: cannot find symbol
+          Scene scene = new Scene(grid, 350, 250);
+          ^
+    symbol:   class Scene
+    location: class PR34
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P34.java:56: error: cannot find symbol
+          Scene scene = new Scene(grid, 350, 250);
+                            ^
+    symbol:   class Scene
+    location: class PR34
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P34.java:63: error: cannot find symbol
+          launch(args);
+          ^
+    symbol:   method launch(String[])
+    location: class PR34
+  38 errors
+
+=== Practical Set-10 / P35 ===
+  [COMPILE ERROR]
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P35.java:11: error: class PR35 is public, should be declared in a file named PR35.java
+  public class PR35 extends Application {
+         ^
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P35.java:1: error: package javafx.application does not exist
+  import javafx.application.Application;
+                           ^
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P35.java:2: error: package javafx.scene does not exist
+  import javafx.scene.Scene;
+                     ^
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P35.java:3: error: package javafx.scene.layout does not exist
+  import javafx.scene.layout.HBox;
+                            ^
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P35.java:4: error: package javafx.scene.layout does not exist
+  import javafx.scene.layout.VBox;
+                            ^
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P35.java:5: error: package javafx.scene.shape does not exist
+  import javafx.scene.shape.Rectangle;
+                           ^
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P35.java:6: error: package javafx.scene.paint does not exist
+  import javafx.scene.paint.Color;
+                           ^
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P35.java:7: error: package javafx.scene.control does not exist
+  import javafx.scene.control.Label;
+                             ^
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P35.java:8: error: package javafx.stage does not exist
+  import javafx.stage.Stage;
+                     ^
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P35.java:9: error: package javafx.geometry does not exist
+  import javafx.geometry.Pos;
+                        ^
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P35.java:11: error: cannot find symbol
+  public class PR35 extends Application {
+                            ^
+    symbol: class Application
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P35.java:12: error: cannot find symbol
+      public void start(Stage stage) {
+                        ^
+    symbol:   class Stage
+    location: class PR35
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P35.java:28: error: cannot find symbol
+      private VBox createBar(String text, int height, Color color) {
+                                                      ^
+    symbol:   class Color
+    location: class PR35
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P35.java:28: error: cannot find symbol
+      private VBox createBar(String text, int height, Color color) {
+              ^
+    symbol:   class VBox
+    location: class PR35
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P35.java:14: error: cannot find symbol
+          VBox p = createBar("Projects ù 20%", 100, Color.RED);
+          ^
+    symbol:   class VBox
+    location: class PR35
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P35.java:14: error: cannot find symbol
+          VBox p = createBar("Projects ù 20%", 100, Color.RED);
+                                                    ^
+    symbol:   variable Color
+    location: class PR35
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P35.java:15: error: cannot find symbol
+          VBox q = createBar("Quizzes ù 10%", 50, Color.BLUE);
+          ^
+    symbol:   class VBox
+    location: class PR35
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P35.java:15: error: cannot find symbol
+          VBox q = createBar("Quizzes ù 10%", 50, Color.BLUE);
+                                                  ^
+    symbol:   variable Color
+    location: class PR35
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P35.java:16: error: cannot find symbol
+          VBox m = createBar("Midterm ù 30%", 150, Color.GREEN);
+          ^
+    symbol:   class VBox
+    location: class PR35
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P35.java:16: error: cannot find symbol
+          VBox m = createBar("Midterm ù 30%", 150, Color.GREEN);
+                                                   ^
+    symbol:   variable Color
+    location: class PR35
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P35.java:17: error: cannot find symbol
+          VBox f = createBar("Final ù 40%", 200, Color.ORANGE);
+          ^
+    symbol:   class VBox
+    location: class PR35
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P35.java:17: error: cannot find symbol
+          VBox f = createBar("Final ù 40%", 200, Color.ORANGE);
+                                                 ^
+    symbol:   variable Color
+    location: class PR35
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P35.java:19: error: cannot find symbol
+          HBox root = new HBox(20, p, q, m, f);
+          ^
+    symbol:   class HBox
+    location: class PR35
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P35.java:19: error: cannot find symbol
+          HBox root = new HBox(20, p, q, m, f);
+                          ^
+    symbol:   class HBox
+    location: class PR35
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P35.java:20: error: cannot find symbol
+          root.setAlignment(Pos.BOTTOM_CENTER);
+                            ^
+    symbol:   variable Pos
+    location: class PR35
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P35.java:22: error: cannot find symbol
+          Scene scene = new Scene(root, 500, 300);
+          ^
+    symbol:   class Scene
+    location: class PR35
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P35.java:22: error: cannot find symbol
+          Scene scene = new Scene(root, 500, 300);
+                            ^
+    symbol:   class Scene
+    location: class PR35
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P35.java:29: error: cannot find symbol
+          Rectangle rect = new Rectangle(50, height);
+          ^
+    symbol:   class Rectangle
+    location: class PR35
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P35.java:29: error: cannot find symbol
+          Rectangle rect = new Rectangle(50, height);
+                               ^
+    symbol:   class Rectangle
+    location: class PR35
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P35.java:32: error: cannot find symbol
+          Label label = new Label(text);
+          ^
+    symbol:   class Label
+    location: class PR35
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P35.java:32: error: cannot find symbol
+          Label label = new Label(text);
+                            ^
+    symbol:   class Label
+    location: class PR35
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P35.java:34: error: cannot find symbol
+          VBox box = new VBox(5, rect, label);
+          ^
+    symbol:   class VBox
+    location: class PR35
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P35.java:34: error: cannot find symbol
+          VBox box = new VBox(5, rect, label);
+                         ^
+    symbol:   class VBox
+    location: class PR35
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P35.java:35: error: cannot find symbol
+          box.setAlignment(Pos.BOTTOM_CENTER);
+                           ^
+    symbol:   variable Pos
+    location: class PR35
+  c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P35.java:41: error: cannot find symbol
+          launch(args);
+          ^
+    symbol:   method launch(String[])
+    location: class PR35
+  35 errors
+
+========================================
+SUMMARY
+========================================
+35 issue(s) found:
+---
+[RUNTIME ERROR] Practical Set-1/P1
+Error: Could not find or load main class Set-1
+Caused by: java.lang.ClassNotFoundException: Set-1
+---
+[RUNTIME ERROR] Practical Set-1/P2
+Error: Could not find or load main class Set-1
+Caused by: java.lang.ClassNotFoundException: Set-1
+---
+[RUNTIME ERROR] Practical Set-1/P3
+Error: Could not find or load main class Set-1
+Caused by: java.lang.ClassNotFoundException: Set-1
+---
+[RUNTIME ERROR] Practical Set-1/P4
+Error: Could not find or load main class Set-1
+Caused by: java.lang.ClassNotFoundException: Set-1
+---
+[RUNTIME ERROR] Practical Set-1/P5
+Error: Could not find or load main class Set-1
+Caused by: java.lang.ClassNotFoundException: Set-1
+---
+[COMPILE ERROR] Practical Set-2/P6
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-2\P6.java:1: error: class PR6 is public, should be declared in a file named PR6.java
+public class PR6 {
+       ^
+1 error
+---
+[COMPILE ERROR] Practical Set-2/P7
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-2\P7.java:3: error: class PR7 is public, should be declared in a file named PR7.java
+public class PR7 {
+       ^
+1 error
+---
+[COMPILE ERROR] Practical Set-2/P8
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-2\P8.java:1: error: class PR8 is public, should be declared in a file named PR8.java
+public class PR8 {
+       ^
+1 error
+---
+[COMPILE ERROR] Practical Set-2/P9
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-2\P9.java:1: error: class PR9 is public, should be declared in a file named PR9.java
+public class PR9 {
+       ^
+1 error
+---
+[COMPILE ERROR] Practical Set-3/P10
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-3\P10.java:1: error: class PR10 is public, should be declared in a file named PR10.java
+public class PR10 {
+       ^
+1 error
+---
+[COMPILE ERROR] Practical Set-3/P11
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-3\P11.java:3: error: class PR11 is public, should be declared in a file named PR11.java
+public class PR11 {
+       ^
+1 error
+---
+[COMPILE ERROR] Practical Set-3/P12
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-3\P12.java:1: error: class PR12 is public, should be declared in a file named PR12.java
+public class PR12 {
+       ^
+1 error
+---
+[COMPILE ERROR] Practical Set-4/P13
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-4\P13.java:22: error: class PR13 is public, should be declared in a file named PR13.java
+public class PR13 {
+       ^
+1 error
+---
+[COMPILE ERROR] Practical Set-4/P14
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-4\P14.java:41: error: class PR14 is public, should be declared in a file named PR14.java
+public class PR14 {
+       ^
+1 error
+---
+[COMPILE ERROR] Practical Set-4/P15
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-4\P15.java:22: error: class PR15 is public, should be declared in a file named PR15.java
+public class PR15 {
+       ^
+1 error
+---
+[RUNTIME ERROR] Practical Set-5/P16
+Error: Could not find or load main class Set-5
+Caused by: java.lang.ClassNotFoundException: Set-5
+---
+[RUNTIME ERROR] Practical Set-5/P17
+Error: Could not find or load main class Set-5
+Caused by: java.lang.ClassNotFoundException: Set-5
+---
+[COMPILE ERROR] Practical Set-5/P18
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-5\P18.java:26: error: class PR18 is public, should be declared in a file named PR18.java
+public class PR18 {
+       ^
+1 error
+---
+[COMPILE ERROR] Practical Set-5/P19
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-5\P19.java:21: error: class, interface, enum, or record expected
+package exam;
+^
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-5\P19.java:23: error: class, interface, enum, or record expected
+import student.Student;
+^
+2 errors
+---
+[COMPILE ERROR] Practical Set-6/P20
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-6\P20.java:1: error: class PR20 is public, should be declared in a file named PR20.java
+public class PR20 {
+       ^
+1 error
+---
+[COMPILE ERROR] Practical Set-6/P21
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-6\P21.java:1: error: class PR21 is public, should be declared in a file named PR21.java
+public class PR21 {
+       ^
+1 error
+---
+[COMPILE ERROR] Practical Set-6/P22
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-6\P22.java:24: error: class PR22 is public, should be declared in a file named PR22.java
+public class PR22 {
+       ^
+1 error
+---
+[COMPILE ERROR] Practical Set-7/P23
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-7\P23.java:25: error: class PR23 is public, should be declared in a file named PR23.java
+public class PR23 {
+       ^
+1 error
+---
+[COMPILE ERROR] Practical Set-7/P24
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-7\P24.java:25: error: class PR24 is public, should be declared in a file named PR24.java
+public class PR24 {
+       ^
+1 error
+---
+[COMPILE ERROR] Practical Set-7/P25
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-7\P25.java:24: error: class PR25 is public, should be declared in a file named PR25.java
+public class PR25 {
+       ^
+1 error
+---
+[COMPILE ERROR] Practical Set-8/P26
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-8\P26.java:3: error: class PR26 is public, should be declared in a file named PR26.java
+public class PR26 {
+       ^
+1 error
+---
+[COMPILE ERROR] Practical Set-8/P27
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-8\P27.java:3: error: class PR27 is public, should be declared in a file named PR27.java
+public class PR27 {
+       ^
+1 error
+---
+[COMPILE ERROR] Practical Set-8/P28
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-8\P28.java:3: error: class PR28 is public, should be declared in a file named PR28.java
+public class PR28 {
+       ^
+1 error
+---
+[COMPILE ERROR] Practical Set-9/P29
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-9\P29.java:3: error: class PR29 is public, should be declared in a file named PR29.java
+public class PR29 {
+       ^
+1 error
+---
+[COMPILE ERROR] Practical Set-9/P30
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-9\P30.java:3: error: class PR30 is public, should be declared in a file named PR30.java
+public class PR30 {
+       ^
+1 error
+---
+[COMPILE ERROR] Practical Set-9/P31
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-9\P31.java:3: error: class PR31 is public, should be declared in a file named PR31.java
+public class PR31 {
+       ^
+1 error
+---
+[COMPILE ERROR] Practical Set-9/P32
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-9\P32.java:3: error: class PR32 is public, should be declared in a file named PR32.java
+public class PR32 {
+       ^
+1 error
+---
+[COMPILE ERROR] Practical Set-10/P33
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P33.java:13: error: class PR33 is public, should be declared in a file named PR33.java
+public class PR33 extends Application {
+       ^
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P33.java:1: error: package javafx.application does not exist
+import javafx.application.Application;
+                         ^
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P33.java:2: error: package javafx.scene does not exist
+import javafx.scene.Scene;
+                   ^
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P33.java:3: error: package javafx.scene.layout does not exist
+import javafx.scene.layout.VBox;
+                          ^
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P33.java:4: error: package javafx.scene.text does not exist
+import javafx.scene.text.Text;
+                        ^
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P33.java:5: error: package javafx.scene.text does not exist
+import javafx.scene.text.Font;
+                        ^
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P33.java:6: error: package javafx.scene.text does not exist
+import javafx.scene.text.FontWeight;
+                        ^
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P33.java:7: error: package javafx.scene.text does not exist
+import javafx.scene.text.FontPosture;
+                        ^
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P33.java:8: error: package javafx.scene.paint does not exist
+import javafx.scene.paint.Color;
+                         ^
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P33.java:9: error: package javafx.stage does not exist
+import javafx.stage.Stage;
+                   ^
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P33.java:10: error: package javafx.geometry does not exist
+import javafx.geometry.Pos;
+                      ^
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P33.java:13: error: cannot find symbol
+public class PR33 extends Application {
+                          ^
+  symbol: class Application
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P33.java:14: error: cannot find symbol
+    public void start(Stage stage) {
+                      ^
+  symbol:   class Stage
+  location: class PR33
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P33.java:15: error: cannot find symbol
+        VBox root = new VBox(10);
+        ^
+  symbol:   class VBox
+  location: class PR33
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P33.java:15: error: cannot find symbol
+        VBox root = new VBox(10);
+                        ^
+  symbol:   class VBox
+  location: class PR33
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P33.java:16: error: cannot find symbol
+        root.setAlignment(Pos.CENTER);
+                          ^
+  symbol:   variable Pos
+  location: class PR33
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P33.java:21: error: cannot find symbol
+            Text t = new Text("Text " + i);
+            ^
+  symbol:   class Text
+  location: class PR33
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P33.java:21: error: cannot find symbol
+            Text t = new Text("Text " + i);
+                         ^
+  symbol:   class Text
+  location: class PR33
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P33.java:22: error: cannot find symbol
+            t.setFont(Font.font("Times New Roman", FontWeight.BOLD, FontPosture.ITALIC, 22));
+                                                   ^
+  symbol:   variable FontWeight
+  location: class PR33
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P33.java:22: error: cannot find symbol
+            t.setFont(Font.font("Times New Roman", FontWeight.BOLD, FontPosture.ITALIC, 22));
+                                                                    ^
+  symbol:   variable FontPosture
+  location: class PR33
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P33.java:22: error: cannot find symbol
+            t.setFont(Font.font("Times New Roman", FontWeight.BOLD, FontPosture.ITALIC, 22));
+                      ^
+  symbol:   variable Font
+  location: class PR33
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P33.java:24: error: cannot find symbol
+            Color color = new Color(rand.nextDouble(), rand.nextDouble(), rand.nextDouble(), 1.0);
+            ^
+  symbol:   class Color
+  location: class PR33
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P33.java:24: error: cannot find symbol
+            Color color = new Color(rand.nextDouble(), rand.nextDouble(), rand.nextDouble(), 1.0);
+                              ^
+  symbol:   class Color
+  location: class PR33
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P33.java:31: error: cannot find symbol
+        Scene scene = new Scene(root, 400, 300);
+        ^
+  symbol:   class Scene
+  location: class PR33
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P33.java:31: error: cannot find symbol
+        Scene scene = new Scene(root, 400, 300);
+                          ^
+  symbol:   class Scene
+  location: class PR33
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P33.java:38: error: cannot find symbol
+        launch(args);
+        ^
+  symbol:   method launch(String[])
+  location: class PR33
+26 errors
+---
+[COMPILE ERROR] Practical Set-10/P34
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P34.java:8: error: class PR34 is public, should be declared in a file named PR34.java
+public class PR34 extends Application {
+       ^
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P34.java:1: error: package javafx.application does not exist
+import javafx.application.Application;
+                         ^
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P34.java:2: error: package javafx.scene does not exist
+import javafx.scene.Scene;
+                   ^
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P34.java:3: error: package javafx.scene.layout does not exist
+import javafx.scene.layout.GridPane;
+                          ^
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P34.java:5: error: package javafx.stage does not exist
+import javafx.stage.Stage;
+                   ^
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P34.java:6: error: package javafx.geometry does not exist
+import javafx.geometry.Insets;
+                      ^
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P34.java:8: error: cannot find symbol
+public class PR34 extends Application {
+                          ^
+  symbol: class Application
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P34.java:9: error: cannot find symbol
+    public void start(Stage stage) {
+                      ^
+  symbol:   class Stage
+  location: class PR34
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P34.java:4: error: package javafx.scene.control does not exist
+import javafx.scene.control.*;
+                   ^
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P34.java:10: error: cannot find symbol
+        GridPane grid = new GridPane();
+        ^
+  symbol:   class GridPane
+  location: class PR34
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P34.java:10: error: cannot find symbol
+        GridPane grid = new GridPane();
+                            ^
+  symbol:   class GridPane
+  location: class PR34
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P34.java:11: error: cannot find symbol
+        grid.setPadding(new Insets(10));
+                            ^
+  symbol:   class Insets
+  location: class PR34
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P34.java:15: error: cannot find symbol
+        TextField roll = new TextField();
+        ^
+  symbol:   class TextField
+  location: class PR34
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P34.java:15: error: cannot find symbol
+        TextField roll = new TextField();
+                             ^
+  symbol:   class TextField
+  location: class PR34
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P34.java:16: error: cannot find symbol
+        TextField name = new TextField();
+        ^
+  symbol:   class TextField
+  location: class PR34
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P34.java:16: error: cannot find symbol
+        TextField name = new TextField();
+                             ^
+  symbol:   class TextField
+  location: class PR34
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P34.java:17: error: cannot find symbol
+        TextField age = new TextField();
+        ^
+  symbol:   class TextField
+  location: class PR34
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P34.java:17: error: cannot find symbol
+        TextField age = new TextField();
+                            ^
+  symbol:   class TextField
+  location: class PR34
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P34.java:18: error: cannot find symbol
+        TextField email = new TextField();
+        ^
+  symbol:   class TextField
+  location: class PR34
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P34.java:18: error: cannot find symbol
+        TextField email = new TextField();
+                              ^
+  symbol:   class TextField
+  location: class PR34
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P34.java:20: error: cannot find symbol
+        Button submit = new Button("Submit");
+        ^
+  symbol:   class Button
+  location: class PR34
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P34.java:20: error: cannot find symbol
+        Button submit = new Button("Submit");
+                            ^
+  symbol:   class Button
+  location: class PR34
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P34.java:22: error: cannot find symbol
+        grid.add(new Label("Roll No"), 0, 0);
+                     ^
+  symbol:   class Label
+  location: class PR34
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P34.java:24: error: cannot find symbol
+        grid.add(new Label("Name"), 0, 1);
+                     ^
+  symbol:   class Label
+  location: class PR34
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P34.java:26: error: cannot find symbol
+        grid.add(new Label("Age"), 0, 2);
+                     ^
+  symbol:   class Label
+  location: class PR34
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P34.java:28: error: cannot find symbol
+        grid.add(new Label("Email"), 0, 3);
+                     ^
+  symbol:   class Label
+  location: class PR34
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P34.java:41: error: cannot find symbol
+                Alert alert = new Alert(Alert.AlertType.INFORMATION);
+                ^
+  symbol:   class Alert
+  location: class PR34
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P34.java:41: error: cannot find symbol
+                Alert alert = new Alert(Alert.AlertType.INFORMATION);
+                                  ^
+  symbol:   class Alert
+  location: class PR34
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P34.java:41: error: package Alert does not exist
+                Alert alert = new Alert(Alert.AlertType.INFORMATION);
+                                             ^
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P34.java:46: error: cannot find symbol
+                Alert alert = new Alert(Alert.AlertType.ERROR);
+                ^
+  symbol:   class Alert
+  location: class PR34
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P34.java:46: error: cannot find symbol
+                Alert alert = new Alert(Alert.AlertType.ERROR);
+                                  ^
+  symbol:   class Alert
+  location: class PR34
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P34.java:46: error: package Alert does not exist
+                Alert alert = new Alert(Alert.AlertType.ERROR);
+                                             ^
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P34.java:50: error: cannot find symbol
+                Alert alert = new Alert(Alert.AlertType.ERROR);
+                ^
+  symbol:   class Alert
+  location: class PR34
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P34.java:50: error: cannot find symbol
+                Alert alert = new Alert(Alert.AlertType.ERROR);
+                                  ^
+  symbol:   class Alert
+  location: class PR34
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P34.java:50: error: package Alert does not exist
+                Alert alert = new Alert(Alert.AlertType.ERROR);
+                                             ^
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P34.java:56: error: cannot find symbol
+        Scene scene = new Scene(grid, 350, 250);
+        ^
+  symbol:   class Scene
+  location: class PR34
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P34.java:56: error: cannot find symbol
+        Scene scene = new Scene(grid, 350, 250);
+                          ^
+  symbol:   class Scene
+  location: class PR34
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P34.java:63: error: cannot find symbol
+        launch(args);
+        ^
+  symbol:   method launch(String[])
+  location: class PR34
+38 errors
+---
+[COMPILE ERROR] Practical Set-10/P35
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P35.java:11: error: class PR35 is public, should be declared in a file named PR35.java
+public class PR35 extends Application {
+       ^
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P35.java:1: error: package javafx.application does not exist
+import javafx.application.Application;
+                         ^
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P35.java:2: error: package javafx.scene does not exist
+import javafx.scene.Scene;
+                   ^
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P35.java:3: error: package javafx.scene.layout does not exist
+import javafx.scene.layout.HBox;
+                          ^
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P35.java:4: error: package javafx.scene.layout does not exist
+import javafx.scene.layout.VBox;
+                          ^
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P35.java:5: error: package javafx.scene.shape does not exist
+import javafx.scene.shape.Rectangle;
+                         ^
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P35.java:6: error: package javafx.scene.paint does not exist
+import javafx.scene.paint.Color;
+                         ^
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P35.java:7: error: package javafx.scene.control does not exist
+import javafx.scene.control.Label;
+                           ^
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P35.java:8: error: package javafx.stage does not exist
+import javafx.stage.Stage;
+                   ^
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P35.java:9: error: package javafx.geometry does not exist
+import javafx.geometry.Pos;
+                      ^
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P35.java:11: error: cannot find symbol
+public class PR35 extends Application {
+                          ^
+  symbol: class Application
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P35.java:12: error: cannot find symbol
+    public void start(Stage stage) {
+                      ^
+  symbol:   class Stage
+  location: class PR35
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P35.java:28: error: cannot find symbol
+    private VBox createBar(String text, int height, Color color) {
+                                                    ^
+  symbol:   class Color
+  location: class PR35
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P35.java:28: error: cannot find symbol
+    private VBox createBar(String text, int height, Color color) {
+            ^
+  symbol:   class VBox
+  location: class PR35
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P35.java:14: error: cannot find symbol
+        VBox p = createBar("Projects ù 20%", 100, Color.RED);
+        ^
+  symbol:   class VBox
+  location: class PR35
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P35.java:14: error: cannot find symbol
+        VBox p = createBar("Projects ù 20%", 100, Color.RED);
+                                                  ^
+  symbol:   variable Color
+  location: class PR35
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P35.java:15: error: cannot find symbol
+        VBox q = createBar("Quizzes ù 10%", 50, Color.BLUE);
+        ^
+  symbol:   class VBox
+  location: class PR35
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P35.java:15: error: cannot find symbol
+        VBox q = createBar("Quizzes ù 10%", 50, Color.BLUE);
+                                                ^
+  symbol:   variable Color
+  location: class PR35
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P35.java:16: error: cannot find symbol
+        VBox m = createBar("Midterm ù 30%", 150, Color.GREEN);
+        ^
+  symbol:   class VBox
+  location: class PR35
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P35.java:16: error: cannot find symbol
+        VBox m = createBar("Midterm ù 30%", 150, Color.GREEN);
+                                                 ^
+  symbol:   variable Color
+  location: class PR35
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P35.java:17: error: cannot find symbol
+        VBox f = createBar("Final ù 40%", 200, Color.ORANGE);
+        ^
+  symbol:   class VBox
+  location: class PR35
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P35.java:17: error: cannot find symbol
+        VBox f = createBar("Final ù 40%", 200, Color.ORANGE);
+                                               ^
+  symbol:   variable Color
+  location: class PR35
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P35.java:19: error: cannot find symbol
+        HBox root = new HBox(20, p, q, m, f);
+        ^
+  symbol:   class HBox
+  location: class PR35
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P35.java:19: error: cannot find symbol
+        HBox root = new HBox(20, p, q, m, f);
+                        ^
+  symbol:   class HBox
+  location: class PR35
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P35.java:20: error: cannot find symbol
+        root.setAlignment(Pos.BOTTOM_CENTER);
+                          ^
+  symbol:   variable Pos
+  location: class PR35
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P35.java:22: error: cannot find symbol
+        Scene scene = new Scene(root, 500, 300);
+        ^
+  symbol:   class Scene
+  location: class PR35
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P35.java:22: error: cannot find symbol
+        Scene scene = new Scene(root, 500, 300);
+                          ^
+  symbol:   class Scene
+  location: class PR35
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P35.java:29: error: cannot find symbol
+        Rectangle rect = new Rectangle(50, height);
+        ^
+  symbol:   class Rectangle
+  location: class PR35
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P35.java:29: error: cannot find symbol
+        Rectangle rect = new Rectangle(50, height);
+                             ^
+  symbol:   class Rectangle
+  location: class PR35
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P35.java:32: error: cannot find symbol
+        Label label = new Label(text);
+        ^
+  symbol:   class Label
+  location: class PR35
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P35.java:32: error: cannot find symbol
+        Label label = new Label(text);
+                          ^
+  symbol:   class Label
+  location: class PR35
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P35.java:34: error: cannot find symbol
+        VBox box = new VBox(5, rect, label);
+        ^
+  symbol:   class VBox
+  location: class PR35
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P35.java:34: error: cannot find symbol
+        VBox box = new VBox(5, rect, label);
+                       ^
+  symbol:   class VBox
+  location: class PR35
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P35.java:35: error: cannot find symbol
+        box.setAlignment(Pos.BOTTOM_CENTER);
+                         ^
+  symbol:   variable Pos
+  location: class PR35
+c:\Users\MAHENDRA\OneDrive\Desktop\OOPS\Practical Set-10\P35.java:41: error: cannot find symbol
+        launch(args);
+        ^
+  symbol:   method launch(String[])
+  location: class PR35
+35 errors
